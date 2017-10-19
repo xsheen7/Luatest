@@ -5,3 +5,4 @@ function people.say()
 	print("hello")
 end
 this.say()
+print('add')
