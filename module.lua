@@ -1,3 +1,5 @@
+---@class
+---@field name
 local class ={}
 class.name="private"
 function class.Fun()

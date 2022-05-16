@@ -18,7 +18,7 @@ function student.New( ... )
 end
 
 
-xm = student.New("xiaoming",100)
+xm = student.New("xiaomi",100)
 print("name",xm.name)
 --第一次调用count访问到student的count 后面就是自己的count进行计算
 xm.count = xm.count+1

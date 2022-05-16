@@ -44,3 +44,6 @@ luac.out
 .vs/
 .idea/
 .vscode/
+
+#run
+.run/
